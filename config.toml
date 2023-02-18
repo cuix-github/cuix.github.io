@@ -1,4 +1,4 @@
-baseURL = 'cuix.github.io'
+baseURL = "https://cuix.github.io/"
 languageCode = 'en-us'
 title = 'Xue Cui'
 theme = "m10c"
