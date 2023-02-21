@@ -1,6 +1,0 @@
-[submodule "hugo-resume/hugo-resume"]
-	path = hugo-resume/hugo-resume
-	url = https://github.com/eddiewebb/hugo-resume.git
-[submodule "themes/hugo-resume"]
-	path = themes/hugo-resume
-	url = https://github.com/eddiewebb/hugo-resume.git
